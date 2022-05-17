@@ -1,0 +1,67 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.selected .title.data-v-1dc6e226 {
+  font-size: 30rpx;
+  color: #303133;
+  margin: 30rpx 20rpx;
+  font-weight: 800;
+}
+.location.data-v-1dc6e226 {
+  background: #FFFFFF;
+  border-radius: 18rpx;
+  padding: 3rpx 0;
+  margin: 20rpx;
+}
+.location .title.data-v-1dc6e226 {
+  font-size: 22rpx;
+  color: #909399;
+  margin: 30rpx 20rpx;
+}
+.location .body.data-v-1dc6e226 {
+  margin: 30rpx 20rpx;
+  display: flex;
+  justify-content: space-between;
+}
+.location .body .left.data-v-1dc6e226 {
+  font-size: 32rpx;
+  font-weight: 800;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.location .body .left .img.data-v-1dc6e226 {
+  width: 35rpx;
+  margin-right: 12rpx;
+}
+.location .body .right.data-v-1dc6e226 {
+  color: #2979ff;
+}
+.hot .title.data-v-1dc6e226 {
+  font-size: 30rpx;
+  color: #303133;
+  margin: 30rpx 20rpx;
+  font-weight: 600;
+}
+.hot .body.data-v-1dc6e226 {
+  background: #FFFFFF;
+  padding-bottom: 15rpx;
+  border-radius: 18rpx;
+  margin: 20rpx;
+}
+.hot .body .tag.data-v-1dc6e226 {
+  display: inline-block;
+  width: 135rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+  font-size: 26rpx;
+  color: #606266;
+  margin: 15rpx 20rpx 0 20rpx;
+  padding: 5rpx 10rpx;
+  text-align: center;
+  background-color: #f3f4f6;
+  border-radius: 8rpx;
+}
+
